@@ -4,7 +4,7 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 
 # ── PATHS ──────────────────────────────────────────────
-HAM_DIR    = r"C:\Users\g\Downloads\HAM10000"
+HAM_DIR = r"C:\Users\g\Desktop\HAM10000v2"
 IMG_DIRS   = [
     os.path.join(HAM_DIR, "HAM10000_images_part_1"),
     os.path.join(HAM_DIR, "HAM10000_images_part_2"),
