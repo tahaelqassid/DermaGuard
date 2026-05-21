@@ -1,7 +1,7 @@
 # 🩺 DermaGuard UIR
 **Multi-Agent AI System for Skin Lesion Triage**
 
-> *"The goal is not to build the most complex system. It is to build a system where every component exists for a reason, every agent has a job, and you can explain why."* — Prof. Hakim Hafidi
+> *"The goal is not to build the most complex system. It is to build a system where every component exists for a reason, every agent has a job, and you can explain why."* —
 
 ---
 
