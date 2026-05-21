@@ -196,17 +196,6 @@ python main.py path/to/image.jpg
 
 ---
 
-## 📤 Submission
-
-| Deliverable | Status |
-|---|---|
-| GitHub repository | ✅ |
-| Trained model | ✅ `model/dermaguard_cnn.pth` |
-| PDF report | ✅ |
-| Demo video | ✅ |
-| Slides | ✅ |
-
----
 
 
 
