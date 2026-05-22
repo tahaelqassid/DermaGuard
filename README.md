@@ -204,8 +204,3 @@ python main.py path/to/image.jpg
 **Program:** AI & Big Data · UIR · S8 · 2025–2026
 
 ---
-
-## ⚠️ Academic Integrity
-
-LLM tools were used as coding assistants throughout this project.
-Every line of code was reviewed, understood, and can be fully explained during the oral defense.
